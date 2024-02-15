@@ -1,1 +1,1 @@
-# codesoft-calculator
+# Calculator
